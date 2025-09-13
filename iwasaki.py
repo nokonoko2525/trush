@@ -1,1 +1,1 @@
-print("iwasaki")
+print("岩崎")
